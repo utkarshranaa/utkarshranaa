@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./computer-rage.gif" alt="Computer Rage"/>
+</div>
 
 # 💫 About Me:
 I’m Utkarsh Rana, a Master’s student passionate about building products at the intersection of AI and Full Stack Development. From shipping blazing-fast web apps to integrating Generative AI into real-world workflows, I focus on creating solutions that work, scale, and make life easier.<br><br>My work spans across full stack development, machine learning, and GenAI engineering, where I blend creativity with code to build products that actually matter.<br><br>👉I craft full stack platforms using modern stacks like Next.js 15, TypeScript, and Convex, focusing on speed, scalability, and user experience.<br>👉I’ve built ML pipelines that detect drowsiness, recognize emotions from speech, and even diagnose plant diseases — bringing AI out of notebooks and into real-world solutions.<br>👉My passion for Generative AI led me to create tools like MediVision.AI, a healthcare assistant that merges AI-generated insights with human expertise.<br><br>These days, I’m diving headfirst into Reinforcement Learning — because why stop at predicting the future when you can teach systems to shape it?
