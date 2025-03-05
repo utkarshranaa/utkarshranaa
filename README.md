@@ -14,7 +14,7 @@ I’m Utkarsh Rana, a Master’s student passionate about building products at t
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=utkarshranaa&theme=radical&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote Which Is Only Here For The Aesthetics 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
